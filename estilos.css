@@ -1,16 +1,25 @@
 .contenedor{
-    margin-top: 90px;
+    
     margin: 0 auto;
     display: flex;
     width: 90%;
     
 }
 body{
-    background-color: aquamarine;
+    background-color: #1f1e1c;
     font-size: medium;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .foto{
-    border-radius: 40px;
-    border-color: rgb(0, 0, 0);
+    border-radius: 50px;
+    
+    
+}
+.piedepagina {
+    background-color: rgb(63, 120, 136);
+    padding: 15px;
+}
+.cabeza{
+    background-color:  rgb(52, 109, 124);
+    padding: 15px;
 }
