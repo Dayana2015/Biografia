@@ -1,0 +1,16 @@
+.contenedor{
+    margin-top: 90px;
+    margin: 0 auto;
+    display: flex;
+    width: 90%;
+    
+}
+body{
+    background-color: aquamarine;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.foto{
+    border-radius: 40px;
+    border-color: rgb(0, 0, 0);
+}
