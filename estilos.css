@@ -11,9 +11,10 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .foto{
-    border-radius: 50px;
-    margin-left: 370px;
-    
+    border-radius: 70px;
+    margin-left: 20px;
+    margin-top: 100px;
+    padding: 30px;
 }
 .piedepagina {
     background-color: rgb(63, 120, 136);
@@ -22,4 +23,17 @@ body{
 .cabeza{
     background-color:  rgb(52, 109, 124);
     padding: 15px;
+}
+.titulo {
+    font-size: xlarge;
+    color: #0b8f72;
+    align-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.seccion1{
+    background-image:url(https://i.pinimg.com/564x/5b/a9/f7/5ba9f704fa2c71e80507b96bb39aefa5.jpg);
+    opacity:85%;
+    background-repeat: no-repeat;
+    padding: 20px;
+
 }
