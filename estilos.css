@@ -6,34 +6,63 @@
     
 }
 body{
-    background-color: #1f1e1c;
+    background-image: url(https://i.pinimg.com/736x/f2/4e/f8/f24ef8fe1670d3dc6b2d8bfa2dc3c1a5.jpg);
+    background-repeat: no-repeat;
+    background-size: 700px;
     font-size: medium;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .foto{
     border-radius: 70px;
-    margin-left: 20px;
-    margin-top: 100px;
-    padding: 30px;
+    border-color: #01134d;
+    margin-top: 80px;
+    padding: 60px;
 }
 .piedepagina {
     background-color: rgb(63, 120, 136);
     padding: 15px;
+    text-align: center;
+    color: aliceblue;
 }
 .cabeza{
     background-color:  rgb(52, 109, 124);
     padding: 15px;
 }
 .titulo {
-    font-size: xlarge;
-    color: #0b8f72;
+    font-size: 60px;
+    color: #01134d;
     align-content: center;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:cursive;
+    margin-top: 70px;
+    align-items: center;
 }
 .seccion1{
-    background-image:url(https://i.pinimg.com/564x/5b/a9/f7/5ba9f704fa2c71e80507b96bb39aefa5.jpg);
-    opacity:85%;
-    background-repeat: no-repeat;
-    padding: 20px;
+    background-color: rgb(240, 214, 167);
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding: 50px;
+    border-radius: 50px;
+    box-shadow: #242836;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18;
 
+}
+.habilidad{
+    color:#01134d;
+    font-family: serif ;
+    text-align: center;
+    font-size: 40px;
+}
+.hobbies{
+    color:#01134d;
+    font-family: serif ;
+    text-align: center;
+    font-size: 40px;
+}
+.biografia{
+    color:#01134d;
+    font-family: serif ;
+    text-align: center;
+    font-size: 40px;
+    
 }
